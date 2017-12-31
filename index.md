@@ -1,6 +1,4 @@
-# Welcome to the Pharmtab Raw Data Repository
 
-Explore the raw data files use to develop the insights on [PharmTab](pharmtab.com)
 
 
 | Tables        | Are           |
