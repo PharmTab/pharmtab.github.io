@@ -1,4 +1,4 @@
-Explore the raw data files used to develop the insights on [PharmTab](https://pharmtab.com)
+Explore the raw data files used to develop the insights at [PharmTab](https://pharmtab.com).
 
 
 | Tables        | Are           |
