@@ -3,7 +3,8 @@ title: Welcome to the Pharmtab Raw Data Repository
 
 collections: 
 - data
-collections_dir: data
+collections_dir: datasets
 collections:
   data:
     output: true
+    permalink: /datasets/:path/
