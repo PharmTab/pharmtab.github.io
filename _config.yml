@@ -7,4 +7,4 @@ collections_dir: datasets
 collections:
   datasets:
     output: true
-    permalink: /datasets/:path/
+    permalink: /_datasets/:path/
