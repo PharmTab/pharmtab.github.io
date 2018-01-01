@@ -1,7 +1,9 @@
 theme: jekyll-theme-cayman
 title: Welcome to the Pharmtab Raw Data Repository
 
-collections: data
-    data:
-        output: true
+collections: 
+- data
 collections_dir: data
+collections:
+  data:
+    output: true
