@@ -2,9 +2,9 @@ theme: jekyll-theme-cayman
 title: Welcome to the Pharmtab Raw Data Repository
 
 collections: 
-- data
+- datasets
 collections_dir: datasets
 collections:
-  data:
+  datasets:
     output: true
     permalink: /datasets/:path/
